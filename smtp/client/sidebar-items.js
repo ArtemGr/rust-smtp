@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Client","Structure that implements the SMTP client"]],"mod":[["net","A trait to represent a stream"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["SendableEmail","Email sendable by an SMTP client"]],"struct":[["SimpleSendableEmail","Minimal email structure"]]});

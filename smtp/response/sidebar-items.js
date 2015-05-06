@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Response","Contains an SMTP reply, with separed code and message"]],"enum":[["Category","Second digit"],["Severity","First digit indicates severity"]]});
