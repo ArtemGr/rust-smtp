@@ -9,8 +9,6 @@
 
 //! SMTP client
 
-#![feature(buf_stream)]
-
 use std::string::String;
 use std::net::{SocketAddr, ToSocketAddrs};
 use std::io::{BufRead, BufStream, Read, Write};

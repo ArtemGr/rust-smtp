@@ -140,6 +140,8 @@
 
 #![deny(missing_docs)]
 
+#![feature(buf_stream)]
+
 #[macro_use] extern crate log;
 extern crate rustc_serialize as serialize;
 extern crate crypto;
